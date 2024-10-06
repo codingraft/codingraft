@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently a Frontend developer at makemaya
 - 👯 I’m looking to collaborate with other coder/developer
-- 🥅 2022 Goals: Learning advance skills for frontend
+- 🥅 2024 Goals: Learning advance skills for frontend
 - 🔭 Email: You can mail me at gvaibhav864@gmail.com
 - ⚡ Fun fact: I love to match movies, series and anime
 
