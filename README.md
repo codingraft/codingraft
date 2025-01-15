@@ -2,9 +2,9 @@
 
 ## I'm a Coder!!
 
-- 🌱 I’m ex Frontend developer at makemaya
+- 🌱 I’m a Fullstack Developer(MERN)
 - 👯 I’m looking to collaborate with other coder/developer
-- 🥅 2024 Goals: Learning advance skills for frontend
+- 🥅 2025 Goals: Want to become a Software Engineer
 - 🔭 Email: You can mail me at gvaibhav864@gmail.com
 - ⚡ Fun fact: I love to match movies, series and anime
 
