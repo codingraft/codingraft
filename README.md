@@ -13,11 +13,11 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/codingraft#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/codingraft#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/vaibhav-21932b208#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/vaibhav-21932b208#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/vaibhavg9#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/vaibhavg9#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codingraft#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codingraft#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/yyvaibhav#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/yyvaibhav#gh-dark-mode-only)
 
 ### Languages and Tools:
 
